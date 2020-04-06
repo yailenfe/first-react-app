@@ -1,0 +1,15 @@
+.curso{
+  display: flex;
+  align-items: center;
+
+}
+
+.curso img{
+  width: 80px;
+  padding: 40px;
+}
+
+.curso h3{
+  font-size: 2em;
+  margin: 0;
+}
