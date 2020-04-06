@@ -1,18 +1,9 @@
-import React from 'react';
-import './global/css/App.css';
-import Header from './global/Header';
-import Menu from './global/Menu';
-import ListaCurso from './global/ListaCurso';
-
+import React from "react";
+import "./global/css/App.css";
+import Routes from "./global/Routes";
 
 function App() {
-  return (
-    <div>
-      <Header/>
-      <ListaCurso/>
-    </div>
-    
-  );
+  return <Routes />;
 }
 
 export default App;
