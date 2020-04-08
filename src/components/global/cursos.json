@@ -1,0 +1,41 @@
+[
+  {
+    "title": "React",
+    "description": "Descripcion del curso de react",
+    "categorias": ["New", "Funny"]
+  },
+  {
+    "title": "Angular",
+    "description": "Angular del curso de react"
+  },
+  {
+    "title": "Vue",
+    "description": "Vue sd a asd asdas d del curso de react",
+    "categorias": ["Sad", "Boring"]
+  },
+  {
+    "title": "asdasd asdsad",
+    "description": "adasdas del curso de react"
+  },
+  {
+    "title": "Xxsxsxsx",
+    "description": "Xxssxsxx del curso de react",
+    "categorias": ["dfdfdf", "dfdfdfdfdf"]
+  },
+  {
+    "title": "NNnnmnmn",
+    "description": "Nmnsdnmsd del curso de react"
+  },
+  {
+    "title": "ituryrtet",
+    "description": "tertretretet del curso de react"
+  },
+  {
+    "title": "324234234",
+    "description": "4234324234234324 del curso de react"
+  },
+  {
+    "title": "fdgdfgdfgdfg",
+    "description": "dgdfgfdgdfgdfg del curso de react"
+  }
+]

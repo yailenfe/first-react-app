@@ -10,6 +10,10 @@ function Curso(props) {
       <div>
         <h3>{props.nombre}</h3>
         <p>{props.texto}</p>
+        
+        {
+          props.categorias && props.categorias.map(categoria => <span className="categoria">{categoria}</span> )
+        }
       </div>
     </div>
   );

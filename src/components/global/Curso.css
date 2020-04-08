@@ -13,3 +13,9 @@
   font-size: 2em;
   margin: 0;
 }
+
+ .categoria{
+  padding: 5px;
+  margin: 4px;
+  background-color: rgb(243, 243, 243);
+}
