@@ -4,6 +4,7 @@ ul {
   display: flex;
   background-color: gray;
   color: #fff;
+  margin-top: 20px;
 }
 ul li{
   padding: 20px;

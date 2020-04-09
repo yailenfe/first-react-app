@@ -8,6 +8,7 @@ function Menu() {
       <ul>
       <Link to="/"><li>Inicio</li></Link>
       <Link to="/cursos"><li>Cursos</li></Link>
+      <Link to="/users"><li>Users</li></Link>
       <Link to="/contacto"><li>Contacto</li></Link>
       </ul>
     </div>

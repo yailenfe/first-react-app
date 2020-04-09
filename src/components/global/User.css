@@ -1,0 +1,41 @@
+.user {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+
+}
+.user img {
+  height: 150px;
+  border-radius: 50%;
+  padding: 30px;
+}
+.user h3 {
+  margin: 0;
+  padding: 2px;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.user p {
+  color: grey;
+  margin: 0;
+}
+
+.user .button {
+  border-radius: 30px;
+  background-color: rgb(146, 146, 146);
+  padding: 10px 20px;
+  border: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 30px;
+}
+
+.button:hover {
+  background-color: rgb(87, 87, 87);
+  box-shadow: 3px 3px 2px #63636380;
+}
+
+
