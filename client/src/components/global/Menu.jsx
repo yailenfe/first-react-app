@@ -6,9 +6,8 @@ function Menu() {
   return (
     <div>
       <ul>
-      <Link to="/"><li>Inicio</li></Link>
-      <Link to="/cursos"><li>Cursos</li></Link>
-      <Link to="/users"><li>Users</li></Link>
+      <Link to="/"><li>Users</li></Link>
+      <Link to="/posts"><li>Posts</li></Link>
       <Link to="/contacto"><li>Contacto</li></Link>
       </ul>
     </div>

@@ -14,8 +14,11 @@
 .user h3 {
   margin: 0;
   padding: 2px;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 400;
+  height: 2em;
+  margin-bottom: 10px;
+  
 }
 
 .user p {

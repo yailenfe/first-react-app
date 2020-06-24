@@ -1,5 +1,6 @@
 import React from "react";
 import "./User.css";
+import {Link} from "react-router-dom";
 
 function User(props) {
   return (
@@ -7,9 +8,7 @@ function User(props) {
       <img src={props.imagen} />
       <h3>{props.nombre}</h3>
       <p>{props.texto}</p>
-      <a className="button" href="#">
-        VIEW DETAILS
-      </a>
+      <Link to="/posts" className="button">VIEW POSTS</Link>
     </div>
   );
 }

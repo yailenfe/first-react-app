@@ -1,0 +1,17 @@
+.post{
+  display: flex;
+  padding: 20px;
+  background-color: rgb(241, 241, 241);
+
+}
+
+.post img{
+  width: 80px;
+  padding: 20px;
+}
+
+.post h3{
+  font-size: 1em;
+  margin: 0;
+}
+
